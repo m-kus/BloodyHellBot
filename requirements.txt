@@ -1,0 +1,4 @@
+telepot
+-e git+https://github.com/agonzalezro/python-opensubtitles#egg=python-opensubtitles
+redis
+nltk
